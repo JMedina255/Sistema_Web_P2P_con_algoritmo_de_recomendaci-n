@@ -17,7 +17,7 @@ La **Unidad I** comprende la fase fundamental de formulación, análisis de viab
 | Semana | Actividad | Evidencia principal | Enlace a la Carpeta |
 | :---: | :--- | :--- | :--- |
 | **01** | Planteamiento de Idea de Proyecto | FD06 | [`semana-01-planteamiento/`](semana-01-planteamiento/) |
-| **02** | Modelo Canvas y respuesta a preguntas | Pendiente de evidencia | [`semana-02-modelo-canvas/`](semana-02-modelo-canvas/) |
+| **02** | Modelo Canvas y respuesta a preguntas | Modelo Canvas Sistema Web P2P| [`semana-02-modelo-canvas/`](semana-02-modelo-canvas/) |
 | **03** | Análisis y Diseño | Requerimientos, diseño inicial y diagrama | [`semana-03-analisis-diseno/`](semana-03-analisis-diseno/) |
 | **03.1** | Factibilidad y Visión | FD01 y FD02 | [`semana-03-1-factibilidad-vision/`](semana-03-1-factibilidad-vision/) |
 | **04** | Elaboración del SRS | FD03 v1.0 | [`semana-04-srs/`](semana-04-srs/) |
