@@ -22,6 +22,7 @@ Sistema_Web_P2P_con_algoritmo_de_recomendacion/
 │
 ├── README.md
 │
+├── MANIFIESTO_DOCUMENTAL.md
 ├── unidad-01/
 │   ├── semana-01-planteamiento/
 │   │   ├── FD06-Informe-Propuesta-Proyecto.docx
@@ -92,3 +93,31 @@ Sistema_Web_P2P_con_algoritmo_de_recomendacion/
     └── informe-github/
         └── Formato-Informe-Uso-GitHub-Estudiantes-v1.0.docx
 ```
+
+---
+
+## 📁 Unidad II: Construcción y Evolución del Software
+
+La **Unidad II** concentra todos los entregables, bitácoras de sprint, evidencias de pruebas automatizadas, catálogo de pruebas homologado, especificación canónica SRS/SAD y actas de reunión del proceso de construcción del sistema.
+
+* **Índice Completo de Actividades:** [`unidad-02/`](unidad-02/)
+* **Manifiesto de Trazabilidad y Hashes:** [`MANIFIESTO_DOCUMENTAL.md`](MANIFIESTO_DOCUMENTAL.md)
+
+### 📋 Cuadro Resumen de Entregables — Unidad II
+
+| Semana | Actividad Académica | Enlace a la Carpeta |
+| :---: | :--- | :--- |
+| **01** | Métricas de software | [`unidad-02/semana-01-metricas-software/`](unidad-02/semana-01-metricas-software/) |
+| **02** | Planificación de Sprint | [`unidad-02/semana-02-planificacion-sprint/`](unidad-02/semana-02-planificacion-sprint/) |
+| **03** | Sprint 01 | [`unidad-02/semana-03-sprint-01/`](unidad-02/semana-03-sprint-01/) |
+| **03** | Desarrollo basado en modelos | [`unidad-02/semana-03-desarrollo-basado-en-modelos/`](unidad-02/semana-03-desarrollo-basado-en-modelos/) |
+| **03** | Sprint 02 | [`unidad-02/semana-03-sprint-02/`](unidad-02/semana-03-sprint-02/) |
+| **04** | Sprint 03 | [`unidad-02/semana-04-sprint-03/`](unidad-02/semana-04-sprint-03/) |
+| **04–05** | Comparación DBC vs DBS | [`unidad-02/semana-04-05-comparacion-dbc-dbs/`](unidad-02/semana-04-05-comparacion-dbc-dbs/) |
+| **04** | Sprint 04 | [`unidad-02/semana-04-sprint-04/`](unidad-02/semana-04-sprint-04/) |
+| **05** | Sprint 05 | [`unidad-02/semana-05-sprint-05/`](unidad-02/semana-05-sprint-05/) |
+| **06** | Sprint 06 | [`unidad-02/semana-06-sprint-06/`](unidad-02/semana-06-sprint-06/) |
+| **06** | Entrega de documentación del proyecto | [`unidad-02/semana-06-entrega-documentacion/`](unidad-02/semana-06-entrega-documentacion/) |
+| **06.1** | Video de funcionalidad | [`unidad-02/semana-06-1-video-funcionalidad/`](unidad-02/semana-06-1-video-funcionalidad/) |
+| **06.2** | Informe GitHub | [`unidad-02/semana-06-2-informe-github/`](unidad-02/semana-06-2-informe-github/) |
+| **06** | Sprints 07 y 08 | [`unidad-02/semana-06-sprints-07-08/`](unidad-02/semana-06-sprints-07-08/) |
